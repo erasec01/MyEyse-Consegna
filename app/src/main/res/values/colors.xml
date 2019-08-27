@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="backgroundIntroduction">#ffffff</color>
+    <color name="active_dots">#000000</color>
+    <color name="inactive_dots">#D5E5EC</color>
+
+    <color name="name_app">#4CAF50</color>
+    <color name="background_first_slide">#FFC107</color>
+
+    <color name="word">#5C5B5B</color>
+</resources>

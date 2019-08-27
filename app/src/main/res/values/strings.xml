@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">MyEyse</string>
+
+    <string name="why_need_auth">
+        To be able to interface with you I need to be able to use both the camera and the audio
+        recorder
+    </string>
+
+    <string name="introduction_description_slide">
+        This app uses AI to help you improve to recognize objects that surround you.
+        \n\nThere are two modes of operation, which can be activated very easily according to your
+        needs.
+    </string>
+
+    <string name="title_mode_object_detection_slide">
+        Object detection mode
+    </string>
+
+    <string name="description_mode_object_detection_slide">
+        This mode is active the first time the app is started.
+        \n\n
+        It will let you know at any time where the objects are located in front of you.
+    </string>
+
+    <string name="title_mode_panoramic_slide">
+        Panoramic mode
+    </string>
+
+    <string name="description_mode_panoramic_slide">
+        To switch to this mode, press the screen twice consecutively.
+        \n \n
+        Then slowly make a rotation on yourself.
+    </string>
+
+    <string name="title_panoramic_mode_slide_2">
+        At the end of the tour...
+    </string>
+
+    <string name="panoramic_mode_slide_2">
+        The app will tell you all the objects it has recognized and position with respect to you.
+        \n\n
+        Remember, more slowly you rotate more objects the app will recognize.
+    </string>
+
+    <string name="title_panoramic_mode_slide_3">
+        If something goes wrong...
+    </string>
+    <string name="panoramic_mode_slide_3">
+        The app will ask you if you want to return to the starting point.
+        \n\n
+        If you say no, app go to object detection mode.
+    </string>
+
+    <string name="end_title_slide">
+        Let\'s start!
+    </string>
+
+    <string name="end_description_slide">
+        Before starting the application you must authorize the use of the camera and the recorder.
+        \n\n
+        This is only to allow the app to interact with you. Press START to to continue.
+    </string>
+
+    <string name="btn_skip">Skip</string>
+    <string name="btn_next">Next</string>
+
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="hour_1">at one o\'clock.</string>
+    <string name="hour_2">at two o\'clock.</string>
+    <string name="hour_3">at three o\'clock.</string>
+    <string name="hour_4">at four o\'clock.</string>
+    <string name="hour_5">at five o\'clock.</string>
+    <string name="hour_6">at six o\'clock.</string>
+    <string name="hour_7">at seven o\'clock.</string>
+    <string name="hour_8">at eight o\'clock.</string>
+    <string name="hour_9">at nine o\'clock.</string>
+    <string name="hour_10">at ten o\'clock.</string>
+    <string name="hour_11">at eleven o\'clock.</string>
+    <string name="hour_12">at twelve o\'clock.</string>
+
+
+    <string
+        name="panoramic_mode_end_for_image_similarity">
+        Panoramic mode end. This is where the tour started.
+    </string>
+
+    <string
+        name="panoramic_mode_end_for_exceeding_the_stopping_range">
+        Panoramic mode end.
+    </string>
+
+    <string
+        name="panoramic_mode_found_1_obj">
+        I found only this object
+    </string>
+
+    <string name="panoramic_mode_obj_not_found">
+        Sorry, no objects recognized!
+    </string>
+    <string name="turn">
+        Please, approximately turn of
+    </string>
+
+    <string name="panoramic_mode_found_more_obj">
+         I found this
+    </string>
+
+    <string name="panoramic_mode_max_speed_exceeded">
+        Stop, Maximum rotation speed exceeded
+    </string>
+    <string name="panoramic_mode_inverse_rotation">
+        Stop, inverse rotation
+    </string>
+    <string name="panoramic_mode_return_starting_point">
+        Do you want return to the starting point?
+    </string>
+    <string name="panoramic_mode_speed_warning">
+        Please, slow down
+    </string>
+
+    <string name="panoramic_mode_yet_to_initial_position">
+        You are already in the initial position
+    </string>
+
+    <string name="panoramic_mode_arrived_start_position">
+        Arrive to start position
+    </string>
+
+    <string name="object_detection_mode_activated">
+         Object detection mode activated!
+    </string>
+
+    <string name="panoramic_mode_activated">
+         Panoramic mode activated!
+    </string>
+
+</resources>
